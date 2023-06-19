@@ -4,3 +4,4 @@
 - 🏢 I’m looking to collaborate on project which involves using Deep Learning in computer vision.
 - 📫 You can reach me via tomaszhawro.kontakt@gmail.com
 - 🌐 Find more about me on [thawro.github.io](thawro.github.io)
+- 📰 You can read some of my work on [medium](https://thawro.medium.com/)

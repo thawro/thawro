@@ -9,7 +9,7 @@
 # **Projects**
 
 ## [AI Virtual Painter](https://github.com/thawro/python-virtual-painter)
-ongoing..
+https://github.com/thawro/python-virtual-painter/assets/50373360/effafd7e-c522-4a6a-a217-294d81a64669
 
 ## [Pulse extraction from face video](https://github.com/thawro/pulse-from-face-pytorch)
 https://github.com/thawro/pulse-from-face-pytorch/assets/50373360/4294c712-c17c-48f9-bf3c-e726bd3bda8b

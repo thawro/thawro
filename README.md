@@ -11,7 +11,7 @@
 ## [Human Pose Estimation](https://github.com/thawro/pytorch-human-pose/tree/main)
 ongoing..
 
-Research phase ready
+Research phase ready ([RESEARCH.md](https://github.com/thawro/pytorch-human-pose/blob/main/RESEARCH.md))
 
 StackedHourglass, SimpleBaseline, HRNet implemented
 

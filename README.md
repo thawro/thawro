@@ -9,11 +9,8 @@
 # **Projects**
 
 ## [Human Pose Estimation](https://github.com/thawro/pytorch-human-pose/tree/main)
-ongoing..
+https://github.com/thawro/pytorch-human-pose/assets/50373360/184c2071-417e-4380-bf81-99397704843e
 
-Research phase ready ([RESEARCH.md](https://github.com/thawro/pytorch-human-pose/blob/main/RESEARCH.md))
-
-StackedHourglass, SimpleBaseline, HRNet implemented
 
 
 ## [AI Virtual Painter](https://github.com/thawro/python-virtual-painter)

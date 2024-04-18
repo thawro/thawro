@@ -12,9 +12,13 @@
 https://github.com/thawro/pytorch-human-pose/assets/50373360/184c2071-417e-4380-bf81-99397704843e
 
 
+## [_PyTorch -> ONNX -> TensorRT_ Inference Comparison](https://github.com/thawro/pytorch-onnx-tensorrt-inference/tree/main)
+![cuda_time_measurements](https://github.com/thawro/thawro/assets/50373360/c5075987-1d9c-47d5-b15d-d26dab26a908)
+
 
 ## [AI Virtual Painter](https://github.com/thawro/python-virtual-painter)
 https://github.com/thawro/python-virtual-painter/assets/50373360/effafd7e-c522-4a6a-a217-294d81a64669
+
 
 ## [Pulse extraction from face video](https://github.com/thawro/pulse-from-face-pytorch)
 https://github.com/thawro/pulse-from-face-pytorch/assets/50373360/4294c712-c17c-48f9-bf3c-e726bd3bda8b

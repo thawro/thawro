@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @thawro
-- 👀 I’m interested in AI solutions for medicine 
-- 📚 I’m currently learning about Deep Learning architectures used in computer vision.
-- 🏢 I’m looking to collaborate on project which involves using Deep Learning in computer vision.
+- 👋 Hi, I’m Tomasz Hawro
+- 👀 I’m interested in Computer Vision
+- 📚 I like to implement and train stuff from scratch
 - 📫 You can reach me via tomaszhawro.kontakt@gmail.com
-- 🌐 Find more about me on my website [thawro.github.io](https://thawro.github.io/)
+
+<div>
+    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thawro&theme=moonlight" alt="summary">
+</div>
+<div style="display: flex;">
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thawro&theme=moonlight" alt="B">
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thawro&theme=moonlight" alt="B">
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thawro&theme=moonlight" alt="B">
+</div>
 
 ---
 # **Projects**
